@@ -1,0 +1,1 @@
+  Testing practice asignment for the Javascript curriculum at "The Odin Project" webpage
